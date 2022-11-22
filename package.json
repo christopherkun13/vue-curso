@@ -1,0 +1,19 @@
+{
+  "name": "vuenas-oracticas",
+  "version": "0.1.0",
+  "description": "Scaffolding of a Vie project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherkun13/vue-curso.git"
+  },
+  "author": "Chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherkun13/vue-curso/issues"
+  },
+  "homepage": "https://github.com/christopherkun13/vue-curso#readme"
+}
