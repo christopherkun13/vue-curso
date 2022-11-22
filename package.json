@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/christopherkun13/vue-curso/issues"
   },
-  "homepage": "https://github.com/christopherkun13/vue-curso#readme"
+  "homepage": "https://github.com/christopherkun13/vue-curso#readme",
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
 }
